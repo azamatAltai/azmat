@@ -1,0 +1,2 @@
+q = set(set(), set(), set())
+print(q)
